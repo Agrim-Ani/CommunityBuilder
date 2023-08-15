@@ -32,13 +32,13 @@ This is a Node.js backend project that implements the functionality of managing 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/community-management-backend.git
+git clone https://github.com/Agrim-Ani/CommunityBuilder.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd community-management-backend
+cd CommunityBuilder
 ```
 
 3. Install dependencies:
