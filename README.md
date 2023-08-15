@@ -44,7 +44,7 @@ cd community-management-backend
 3. Install dependencies:
 
 ```bash
-npm install
+npm install <see package.json>
 ```
 
 4. Create a `.env` file in the project root and set your environment variables:
@@ -60,7 +60,7 @@ Replace `your-secret-key` with your actual secret key for JWT authentication.
 5. Run the server:
 
 ```bash
-npm start
+npm run start
 ```
 
 The server will be running at `http://localhost:3000`.
